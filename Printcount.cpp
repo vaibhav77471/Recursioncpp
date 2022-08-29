@@ -1,4 +1,4 @@
-include<iostream>
+#include<iostream>
 using namespace std;
 
 //program of printing count til nth term
