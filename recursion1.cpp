@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/*
+
 //program of finding power of n using recursion
 int power(int n){
     //base case
@@ -18,8 +18,8 @@ int main(){
     int ans=power(n);
     cout<<ans;
     return 0;
-}*/
-/*
+}
+
 // program of print factorial of nth term
 int factorial(int n){
     //base case
@@ -36,8 +36,8 @@ int main(){
     int ans= factorial(n);
     cout<<ans;
     return 0;
-}*/
-/*
+}
+
 //program of printing count til nth term
 void printcount(int n){
     //base case
@@ -55,4 +55,4 @@ int main(){
     printcount(n);
    
     return 0;
-}*/
+}
