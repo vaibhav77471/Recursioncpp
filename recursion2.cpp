@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-/*
+
 //program of fibonacci series using recursion
 int fibonacci(int n){
     //base case
@@ -26,8 +26,8 @@ int main(){
     }
     return 0;
 
-}*/
-/*
+}
+
 //program of say digit using recursion
 void saydigit(int n, string arr[]){
     //base case
@@ -54,8 +54,8 @@ int main(){
 
 
     return 0;
-}*/
-/*
+}
+
 //program of climing stairs
 int climb(int n){
     //base case
@@ -76,8 +76,8 @@ int main(){
    cout<<ans;
 
     return 0;
-}*/
-/*
+}
+
 //program of reaching home
 void reachinghome(int src, int destination){
     cout<<"sorce"<<src<<"  "<<"destination"<< destination<<endl;
@@ -97,5 +97,5 @@ int main(){
     reachinghome(src,destination);
 
     return 0;
-}*/
+}
 
